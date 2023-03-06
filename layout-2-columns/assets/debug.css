@@ -1,0 +1,19 @@
+header {
+	height: 100px;
+	background-color: gold;
+}
+
+main {
+	/* height: 250px; */
+	/* background-color: violet; */
+}
+
+aside {
+	/* height: 200px; */
+	/* background-color: salmon; */
+}
+
+footer {
+	height: 100px;
+	background-color: cyan;
+}

@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	max-width: 1000px;
+	margin-inline: auto;
+	padding-inline: 1rem;
+}
+
+header {
+	margin-bottom: 1.5rem;
+}
+
+.row {
+	display: flex;
+	gap: 3rem;
+	align-items: flex-start;
+	margin-bottom: 1.5rem;
+}
+
+main {
+	flex: 0 1 70%;
+}
+
+aside {
+	flex: 0 0 30%;
+}
